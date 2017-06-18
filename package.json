@@ -1,0 +1,22 @@
+{
+  "name": "brig-example-app",
+  "version": "0.0.1",
+  "author": "Fred Chiend <cfsghost@gmail.com>",
+  "description": "Example app which is based on brig",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/cfsghost/brig-example-app.git"
+  },
+  "homepage": "http://github.com/cfsghost/brig-example-app",
+  "main": "./index.js",
+  "keywords": [
+    "gui",
+    "ui",
+    "graphics"
+  ],
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
