@@ -18,5 +18,8 @@
     "node": ">=0.10.0"
   },
   "devDependencies": {},
-  "optionalDependencies": {}
+  "optionalDependencies": {},
+  "dependencies": {
+    "brig": "^0.1.12"
+  }
 }
