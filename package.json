@@ -1,7 +1,7 @@
 {
   "name": "brig-example-app",
   "version": "0.0.1",
-  "author": "Fred Chiend <cfsghost@gmail.com>",
+  "author": "Fred Chien <cfsghost@gmail.com>",
   "description": "Example app which is based on brig",
   "repository": {
     "type": "git",
@@ -20,6 +20,6 @@
   "devDependencies": {},
   "optionalDependencies": {},
   "dependencies": {
-    "brig": "^0.1.12"
+    "brig": ">=0.1.12"
   }
 }
